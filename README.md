@@ -1,5 +1,5 @@
 <p align="right">
-<img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-assets">
+<img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-website">
 </p>
 
 <p align="center">
