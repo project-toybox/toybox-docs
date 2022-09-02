@@ -5,7 +5,6 @@ remote_theme: just-the-docs/just-the-docs
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-logo: "https://raw.githubusercontent.com/project-toybox/toybox-assets/main/images/toybox-icon.png"
 title: Toybox
 description: A high-performance game compressor
 baseurl: "/toybox-website" # the subpath of your site, e.g. /blog
@@ -39,6 +38,9 @@ search:
   # Supports true or false (default)
   button: false
 
+# Enable or disable heading anchors
+heading_anchors: true
+
 # Aux links for the upper right navigation
 aux_links:
   "Toybox on GitHub":
@@ -46,6 +48,10 @@ aux_links:
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
+
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # Footer content
 # appears at the bottom of every page's main content
