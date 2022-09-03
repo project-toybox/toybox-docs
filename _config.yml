@@ -9,7 +9,6 @@ title: Project Toybox
 description: A high-performance game compressor
 baseurl: "/toybox-website" # the subpath of your site, e.g. /blog
 url: "https://project-toybox.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "https://raw.githubusercontent.com/project-toybox/toybox-assets/main/images/toybox-typo.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
