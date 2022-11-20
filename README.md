@@ -15,4 +15,4 @@
 This site uses [Just the Docs](https://github.com/just-the-docs/just-the-docs), a documentation theme for Jekyll. Please see [this page](https://just-the-docs.github.io/just-the-docs) before editing documents.
 
 ## License
-The contents are available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The contents are freely available under the [MIT License](http://opensource.org/licenses/MIT).
