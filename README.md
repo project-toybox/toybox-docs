@@ -6,7 +6,8 @@
     <p align="center"><b>A website which provides Toybox documentation</b></p>
     <p align="center">
         <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/project-toybox/toybox-docs">
-        <img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-docs">
+        <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/project-toybox/toybox-scripts">
+        <img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-scripts">
     </p>
 </p>
 
