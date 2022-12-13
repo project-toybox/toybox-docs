@@ -5,8 +5,8 @@
     </h1>
     <p align="center"><b>A website which provides Toybox documentation</b></p>
     <p align="center">
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/project-toybox/toybox-docs">
-        <img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-docs">
+        <a target="_blank" href="https://github.com/project-toybox/toybox-docs/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/project-toybox/toybox-docs"></a>
+        <a target="_blank" href="https://github.com/project-toybox/toybox-docs/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-docs"></a>
     </p>
 </p>
 
