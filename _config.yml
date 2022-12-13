@@ -1,4 +1,4 @@
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.3.3
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
