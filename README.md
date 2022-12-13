@@ -1,12 +1,12 @@
 <p align="center">
     <h1 align="center">
         <img src="https://raw.githubusercontent.com/project-toybox/toybox-assets/main/images/toybox-icon.png" width="50" height="50">
-        <p>Toybox Website</p>
+        <p>Toybox Docs</p>
     </h1>
     <p align="center"><b>A website which provides Toybox documentation</b></p>
     <p align="center">
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/project-toybox/toybox-website">
-        <img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-website">
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/project-toybox/toybox-docs">
+        <img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-docs">
     </p>
 </p>
 
